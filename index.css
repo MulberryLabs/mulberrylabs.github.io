@@ -5,7 +5,7 @@ HTML {
 
 BODY {
     margin: 0;
-    background-color: #EAE9F9;
+    background-color: #fff;
     background-image: url("barcode.png");
     background-repeat: repeat;
     padding: 0;
@@ -20,7 +20,7 @@ BODY {
     align-items: center;
     border: solid #7346A4;
     border-width: 6px 0;
-    background-color: #fff;
+    background-color: #EAE9F969;
 }
 
 .banner > DIV {
